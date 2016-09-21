@@ -1,5 +1,4 @@
-# contactListApp
-Contact list application
+#Contact list application
 
 
 Side work to practice MEAN stack development.
